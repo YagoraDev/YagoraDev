@@ -54,12 +54,7 @@ Me chamo Yago Oliveira Siqueira, tenho 19 anos e sou natural de Belém do Pará.
 
 ---
 
-### 📊 Estatísticas
 
-<div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YagoraDev&show_icons=true&theme=tokyonight&locale=pt-br"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoraDev&layout=compact&theme=tokyonight&locale=pt-br"/>
-</div>
 
 
 
