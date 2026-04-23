@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Yago Oliveira Siqueira, tenho 19 anos e sou natural de Belém do Pará. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNAMA. Sou uma pessoa dedicada, em constante busca por aprendizado e atualização nas tecnologias mais relevantes do mercado. Este espaço é dedicado à apresentação dos meus projetos pessoais e dos projetos desenvolvidos durante a faculdade.
+...
 
 ---
 
