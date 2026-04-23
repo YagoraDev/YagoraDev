@@ -10,6 +10,7 @@ Atualmente, desenvolvo projetos práticos com o objetivo de fortalecer minhas ha
 Tenho como objetivo expandir meus conhecimentos para o back-end e avançar para uma atuação fullstack.
 
 Aberto a oportunidades de estágio e posições como desenvolvedor júnior.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
