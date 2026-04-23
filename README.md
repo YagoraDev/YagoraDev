@@ -1,7 +1,13 @@
-# 👨🏻‍💻 Yago Siqueira
+# 👨🏻‍💻 Yago Oliveira Siqueira
 
 **`Desenvolvedor Front-End`**
+Desenvolvedor formado em Análise e Desenvolvimento de Sistemas, em constante evolução na área de desenvolvimento web, com foco na criação de interfaces modernas, responsivas e bem estruturadas.
 
+Atualmente, desenvolvo projetos práticos com o objetivo de fortalecer minhas habilidades, aplicar boas práticas de código e aprimorar a experiência do usuário, sempre buscando evolução contínua como desenvolvedor.
+
+Tenho como objetivo expandir meus conhecimentos para o back-end e avançar para uma atuação fullstack.
+
+🚀 Aberto a oportunidades de estágio e posições como desenvolvedor júnior.
 ...
 
 ---
