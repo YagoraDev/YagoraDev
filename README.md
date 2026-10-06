@@ -12,7 +12,7 @@ Aberto a oportunidades de estágio e posições como desenvolvedor júnior (back
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <p align="left">
   <img alt="HTML" title="HTML" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -28,7 +28,7 @@ Aberto a oportunidades de estágio e posições como desenvolvedor júnior (back
 
 ---
 
-### 📚 Atualmente estudando
+### Atualmente estudando
 
 - Automação de processos com **Power Automate**
 - Automação e scripts com **Python**
@@ -38,7 +38,7 @@ Aberto a oportunidades de estágio e posições como desenvolvedor júnior (back
 
 ---
 
-### 📫 Onde me encontrar
+### Onde me encontrar
 
 - **LinkedIn:** [yago-siqueira](https://www.linkedin.com/in/yago-siqueira-95a9b52b7/)
 - **GitHub:** [YagoraDev](https://github.com/YagoraDev)
