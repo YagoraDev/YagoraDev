@@ -8,7 +8,7 @@ Atualmente, desenvolvo projetos práticos com o objetivo de consolidar habilidad
 
 Estou estudando **automação com Power Automate, Python e N8N**, buscando integrar sistemas, otimizar fluxos de trabalho e desenvolver soluções cada vez mais completas.
 
-Aberto a oportunidades de estágio e posições como desenvolvedor júnior (back-end ou fullstack).
+Aberto a oportunidades de estágio e posições como desenvolvedor júnior.
 
 ---
 
