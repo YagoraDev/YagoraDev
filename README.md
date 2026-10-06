@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Yago Oliveira Siqueira
+# Yago Oliveira Siqueira
 
 **`Desenvolvedor Back-End`**
 
