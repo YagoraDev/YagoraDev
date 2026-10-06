@@ -14,8 +14,6 @@ Aberto a oportunidades de estágio e posições como desenvolvedor júnior (back
 
 ### 🤖 Linguagens e Tecnologias
 
-**Front-End & Base:**
-
 <img 
     align="left" 
     alt="HTML"
@@ -40,12 +38,6 @@ Aberto a oportunidades de estágio e posições como desenvolvedor júnior (back
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-<br clear="left"/>
-<br/>
-
-**Back-End, Banco de Dados & Automação:**
-
 <img 
     align="left" 
     alt="Python"
@@ -86,12 +78,6 @@ Aberto a oportunidades de estágio e posições como desenvolvedor júnior (back
     style="padding-right: 10px;" 
     src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" 
 />
-
-<br clear="left"/>
-<br/>
-
-**Ferramentas:**
-
 <img 
     align="left" 
     alt="Git" 
@@ -109,9 +95,6 @@ Aberto a oportunidades de estágio e posições como desenvolvedor júnior (back
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
-<br clear="left"/>
-<br/>
-
 ---
 
 ### 📚 Atualmente estudando
@@ -126,8 +109,8 @@ Aberto a oportunidades de estágio e posições como desenvolvedor júnior (back
 
 ### 📫 Onde me encontrar
 
-- **LinkedIn:** [Adicione seu link aqui]
+- **LinkedIn:** [https://www.linkedin.com/in/yago-siqueira-95a9b52b7/]
 - **GitHub:** [github.com/YagoraDev](https://github.com/YagoraDev)
-- **E-mail:** [Adicione seu e-mail aqui]
+- **E-mail:** [yagosiqueiraa1@gmail.com]
 
 ---
