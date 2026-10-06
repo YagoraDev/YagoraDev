@@ -14,86 +14,17 @@ Aberto a oportunidades de estágio e posições como desenvolvedor júnior (back
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Power Automate"
-    title="Power Automate" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/power-automate.png" 
-/>
-<img 
-    align="left" 
-    alt="N8N"
-    title="N8N" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
+<p align="left">
+  <img alt="HTML" title="HTML" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Python" title="Python" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="MySQL" title="MySQL" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="SQL" title="SQL" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img alt="N8N" title="N8N" width="40px" style="margin-right: 10px;" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" />
+  <img alt="Git" title="Git" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="40px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+</p>
 
 ---
 
@@ -109,8 +40,8 @@ Aberto a oportunidades de estágio e posições como desenvolvedor júnior (back
 
 ### 📫 Onde me encontrar
 
-- **LinkedIn:** [https://www.linkedin.com/in/yago-siqueira-95a9b52b7/]
-- **GitHub:** [github.com/YagoraDev](https://github.com/YagoraDev)
-- **E-mail:** [yagosiqueiraa1@gmail.com]
+- **LinkedIn:** [yago-siqueira](https://www.linkedin.com/in/yago-siqueira-95a9b52b7/)
+- **GitHub:** [YagoraDev](https://github.com/YagoraDev)
+- **E-mail:** [yagosiqueiraa1@gmail.com](mailto:yagosiqueiraa1@gmail.com)
 
 ---
